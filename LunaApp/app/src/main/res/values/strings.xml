@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LunaApp</string>
+
+    <string name="tab_title1">노트</string>
+    <string name="tab_title2">글쓰기</string>
+    <string name="tab_title3">데이트 코스</string>
+    <string name="tab_title4">맛집</string>
+    <string name="tab_title5">설정</string>
+
+    <string name="write_today">오늘 작성</string>
+    <string name="today_date_format">MM월 dd일</string>
+    <string name="today_date_string">O월 O일</string>
+    <string name="input_contents_hint">내용 입력</string>
+    <string name="save_button">저장</string>
+    <string name="delete_button">삭제</string>
+    <string name="close_button">닫기</string>
+
+</resources>

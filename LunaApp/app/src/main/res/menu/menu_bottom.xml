@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tab1"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/notebook"
+        android:title="@string/tab_title1" />
+    <item
+        android:id="@+id/tab2"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/write"
+        android:title="@string/tab_title2" />
+    <item
+        android:id="@+id/tab3"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/map"
+        android:title="데이트 코스"/>
+    <item
+        android:id="@+id/tab4"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/restaurant"
+        android:title="맛집"/>
+    <item
+        android:id="@+id/tab5"
+        app:showAsAction="ifRoom"
+        android:enabled="true"
+        android:icon="@drawable/settings"
+        android:title="설정"/>
+
+</menu>
